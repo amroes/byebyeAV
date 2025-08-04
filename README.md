@@ -60,6 +60,3 @@ The `xor.py` script makes it easy to encrypt/decrypt shellcode:
 ⚠️ **EDUCATIONAL USE ONLY**
 
 This tool is for defensive research and academic purposes only. Use responsibly and only on systems you own or have permission to test.
-
-**License**: MIT License  
-**Version**: 1.0.0 

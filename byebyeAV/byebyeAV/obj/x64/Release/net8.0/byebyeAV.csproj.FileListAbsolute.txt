@@ -1,0 +1,14 @@
+C:\Users\atra\Desktop\OSEP\pi module\byebyeAV\byebyeAV\bin\x64\Release\net8.0\byebyeAV.exe
+C:\Users\atra\Desktop\OSEP\pi module\byebyeAV\byebyeAV\bin\x64\Release\net8.0\byebyeAV.deps.json
+C:\Users\atra\Desktop\OSEP\pi module\byebyeAV\byebyeAV\bin\x64\Release\net8.0\byebyeAV.runtimeconfig.json
+C:\Users\atra\Desktop\OSEP\pi module\byebyeAV\byebyeAV\bin\x64\Release\net8.0\byebyeAV.dll
+C:\Users\atra\Desktop\OSEP\pi module\byebyeAV\byebyeAV\bin\x64\Release\net8.0\byebyeAV.pdb
+C:\Users\atra\Desktop\OSEP\pi module\byebyeAV\byebyeAV\obj\x64\Release\net8.0\byebyeAV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atra\Desktop\OSEP\pi module\byebyeAV\byebyeAV\obj\x64\Release\net8.0\byebyeAV.AssemblyInfoInputs.cache
+C:\Users\atra\Desktop\OSEP\pi module\byebyeAV\byebyeAV\obj\x64\Release\net8.0\byebyeAV.AssemblyInfo.cs
+C:\Users\atra\Desktop\OSEP\pi module\byebyeAV\byebyeAV\obj\x64\Release\net8.0\byebyeAV.csproj.CoreCompileInputs.cache
+C:\Users\atra\Desktop\OSEP\pi module\byebyeAV\byebyeAV\obj\x64\Release\net8.0\byebyeAV.dll
+C:\Users\atra\Desktop\OSEP\pi module\byebyeAV\byebyeAV\obj\x64\Release\net8.0\refint\byebyeAV.dll
+C:\Users\atra\Desktop\OSEP\pi module\byebyeAV\byebyeAV\obj\x64\Release\net8.0\byebyeAV.pdb
+C:\Users\atra\Desktop\OSEP\pi module\byebyeAV\byebyeAV\obj\x64\Release\net8.0\byebyeAV.genruntimeconfig.cache
+C:\Users\atra\Desktop\OSEP\pi module\byebyeAV\byebyeAV\obj\x64\Release\net8.0\ref\byebyeAV.dll

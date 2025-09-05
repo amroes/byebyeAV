@@ -1,6 +1,6 @@
-# ByeByeAV.exe - Simple Antivirus Evasion Tool
+# ByeByeAV.exe - Advanced Antivirus Evasion Tool
 
-A basic antivirus evasion tool that uses process hollowing and XOR encryption to bypass detection.
+A n Advanced antivirus evasion tool that uses process hollowing on dllhost.exe and XOR encryption to bypass detection. Bypassed Latest versions of Kaspersky, Sophos and Windows Defender.
 
 ## How It Works
 
